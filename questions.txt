@@ -1,0 +1,7 @@
+generate a java code to find the sum of n num using an array and throw array index out of bounds exception when the loop variable is beyond the size n ?
+
+display the multiplication table 5 and 10 using thread ?
+
+write a java program which will generate the threads
+1.to display 10 terms of the fib series?
+2.to display 1 to 10 in reverse order ?
